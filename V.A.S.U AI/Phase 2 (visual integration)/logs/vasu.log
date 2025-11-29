@@ -1,0 +1,96 @@
+2025-11-29 10:53:01 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 11:00:43 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 11:04:13 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 11:04:17 - VASU.phase1_voice_interface.voice_manager - INFO - Voice Manager Initialized
+2025-11-29 11:04:21 - VASU.phase1_voice_interface.voice_manager - INFO - Heard: hi how are you
+2025-11-29 11:04:21 - VASU.phase1_voice_interface.command_processor - INFO - Processing: hi how are you
+2025-11-29 11:04:28 - VASU.phase1_voice_interface.voice_manager - INFO - Heard: what is this
+2025-11-29 11:04:28 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is this
+2025-11-29 11:04:35 - VASU.phase1_voice_interface.voice_manager - INFO - Heard: what is this
+2025-11-29 11:04:35 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is this
+2025-11-29 11:06:10 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 11:06:13 - VASU.phase1_voice_interface.voice_manager - INFO - Voice Manager Initialized
+2025-11-29 11:06:17 - VASU.phase1_voice_interface.voice_manager - INFO - Heard: how are you
+2025-11-29 11:06:17 - VASU.phase1_voice_interface.command_processor - INFO - Processing: how are you
+2025-11-29 11:06:27 - VASU.phase1_voice_interface.voice_manager - INFO - Heard: who are you
+2025-11-29 11:06:27 - VASU.phase1_voice_interface.command_processor - INFO - Processing: who are you
+2025-11-29 11:06:36 - VASU.phase1_voice_interface.voice_manager - INFO - Heard: what is this
+2025-11-29 11:06:36 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is this
+2025-11-29 11:10:32 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 11:10:37 - VASU.phase1_voice_interface.command_processor - INFO - Processing: hi how are you
+2025-11-29 11:10:49 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is this
+2025-11-29 11:11:01 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is this
+2025-11-29 11:11:07 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is the temperature
+2025-11-29 11:11:13 - VASU.phase1_voice_interface.command_processor - INFO - Processing: where am i
+2025-11-29 11:14:48 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 11:14:53 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is this
+2025-11-29 11:14:59 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is the temperature
+2025-11-29 11:15:12 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is this
+2025-11-29 11:15:30 - VASU.phase1_voice_interface.command_processor - INFO - Processing: how are you
+2025-11-29 11:24:45 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 11:49:30 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 11:49:35 - VASU.phase1_voice_interface.ai_interface - INFO - Connected to OpenAI Cloud.
+2025-11-29 11:49:40 - VASU.phase1_voice_interface.command_processor - INFO - Processing: hello how are you
+2025-11-29 11:49:45 - VASU.phase1_voice_interface.ai_interface - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-11-29 11:49:54 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is this
+2025-11-29 11:50:05 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is this
+2025-11-29 11:50:13 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is this
+2025-11-29 11:50:18 - VASU.phase1_voice_interface.command_processor - INFO - Processing: is the time
+2025-11-29 11:50:40 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is the temperature in
+2025-11-29 11:50:43 - VASU.phase1_voice_interface.ai_interface - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-11-29 11:50:52 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is temperature in new del
+2025-11-29 11:50:55 - VASU.phase1_voice_interface.ai_interface - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-11-29 11:51:12 - VASU.phase1_voice_interface.command_processor - INFO - Processing: who are you
+2025-11-29 11:51:20 - VASU.phase1_voice_interface.command_processor - INFO - Processing: who am i
+2025-11-29 11:51:29 - VASU.phase1_voice_interface.command_processor - INFO - Processing: i am v
+2025-11-29 11:51:32 - VASU.phase1_voice_interface.ai_interface - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-11-29 11:55:35 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 11:55:38 - VASU.phase1_voice_interface.ai_interface - INFO - Connected to OpenAI Cloud.
+2025-11-29 11:55:43 - VASU.phase1_voice_interface.command_processor - INFO - Processing: hello how are you
+2025-11-29 11:55:47 - VASU.phase1_voice_interface.ai_interface - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-11-29 11:55:59 - VASU.phase1_voice_interface.command_processor - INFO - Processing: who are you
+2025-11-29 11:56:11 - VASU.phase1_voice_interface.command_processor - INFO - Processing: who
+2025-11-29 11:56:13 - VASU.phase1_voice_interface.ai_interface - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-11-29 11:56:37 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is the time
+2025-11-29 11:56:45 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is the temperature in
+2025-11-29 11:56:47 - VASU.phase1_voice_interface.ai_interface - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-11-29 11:56:55 - VASU.phase1_voice_interface.command_processor - INFO - Processing: temperature in new york
+2025-11-29 11:56:58 - VASU.phase1_voice_interface.ai_interface - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-11-29 11:59:40 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 11:59:43 - VASU.phase1_voice_interface.ai_interface - INFO - Connected to OpenAI Cloud.
+2025-11-29 11:59:48 - VASU.phase1_voice_interface.command_processor - INFO - Processing: who are you
+2025-11-29 12:00:01 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is this
+2025-11-29 12:00:07 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is the time now
+2025-11-29 12:00:16 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is the temperature in new york
+2025-11-29 12:00:19 - VASU.phase1_voice_interface.ai_interface - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-11-29 12:00:27 - VASU.phase1_voice_interface.command_processor - INFO - Processing: where are you
+2025-11-29 12:00:29 - VASU.phase1_voice_interface.ai_interface - ERROR - OpenAI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-11-29 12:07:09 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 12:07:17 - VASU.phase1_voice_interface.ai_interface - INFO - Connected to Google Gemini Cloud.
+2025-11-29 12:07:22 - VASU.phase1_voice_interface.command_processor - INFO - Processing: who are you
+2025-11-29 12:07:37 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is temperature in
+2025-11-29 12:07:37 - VASU.phase1_voice_interface.ai_interface - ERROR - Gemini Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-29 12:07:45 - VASU.phase1_voice_interface.command_processor - INFO - Processing: temperature in new york
+2025-11-29 12:07:45 - VASU.phase1_voice_interface.ai_interface - ERROR - Gemini Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-29 12:07:58 - VASU.phase1_voice_interface.command_processor - INFO - Processing: who am i
+2025-11-29 12:10:05 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 12:10:07 - VASU.phase1_voice_interface.ai_interface - INFO - Connected to Google Gemini Cloud.
+2025-11-29 12:10:13 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is temperature in new york
+2025-11-29 12:10:13 - VASU.phase1_voice_interface.ai_interface - ERROR - Gemini Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-29 12:15:33 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 12:15:36 - VASU.phase1_voice_interface.ai_interface - INFO - Connected to Google Gemini Cloud.
+2025-11-29 12:15:46 - VASU.phase1_voice_interface.command_processor - INFO - Processing: is this
+2025-11-29 12:16:11 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is temperature in new york
+2025-11-29 12:20:11 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 12:20:15 - VASU.phase1_voice_interface.ai_interface - INFO - Connected to Google Gemini Cloud.
+2025-11-29 12:24:07 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 12:24:10 - VASU.phase1_voice_interface.ai_interface - INFO - Connected to Google Gemini Cloud.
+2025-11-29 12:26:46 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 12:26:49 - VASU.phase1_voice_interface.ai_interface - INFO - Connected to Google Gemini Cloud.
+2025-11-29 12:27:01 - VASU.phase1_voice_interface.command_processor - INFO - Processing: who are you
+2025-11-29 12:27:19 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is this
+2025-11-29 12:27:27 - VASU.phase1_voice_interface.command_processor - INFO - Processing: what is temperature in
+2025-11-29 12:27:51 - VASU.phase1_voice_interface.command_processor - INFO - Processing: temperature in my current
+2025-11-29 12:36:52 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 12:37:13 - VASU.phase2_vision_system.object_detector - INFO - Object Detector (YOLOv4-Tiny) initialized successfully
+2025-11-29 12:37:18 - VASU.phase1_voice_interface.ai_interface - INFO - Connected to Google Gemini Cloud.

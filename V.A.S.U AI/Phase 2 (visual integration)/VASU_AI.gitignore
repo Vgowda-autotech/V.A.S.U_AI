@@ -1,0 +1,50 @@
+# ========================
+# 🐍 Python Standard
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# ========================
+# 🔒 Security (Crucial!)
+# ========================
+# Ignore the file containing your real Google/OpenAI Keys
+config/settings.py
+
+# ========================
+# 📦 Large AI Models
+# ========================
+# We ignore weights because they are too large for GitHub.
+# Users should use 'setup_models.py' to download them.
+models/*.weights
+models/*.h5
+models/*.onnx
+models/*.pt
+
+# ========================
+# 📊 Runtime Data & Logs
+# ========================
+# Ignore logs created while running
+logs/*.log
+logs/vasu.log
+
+# Ignore images captured by the camera
+data/images/*
+!data/images/.gitkeep
+
+# Ignore learned faces (privacy)
+data/faces/*
+!data/faces/.gitkeep
+
+# ========================
+# 🖥️ OS & IDE Files
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
