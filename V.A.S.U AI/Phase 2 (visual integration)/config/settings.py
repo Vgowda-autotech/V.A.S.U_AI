@@ -57,7 +57,7 @@ class Settings:
         # 🧠 ARTIFICIAL INTELLIGENCE (Google Gemini)
         # ==========================================
         # Paste your Google API Key inside the quotes below
-        self.GEMINI_API_KEY = "AIzaSyCXHHAkANJzcflab8XCi0rvwA73DCa-qjQ" 
+        self.GEMINI_API_KEY = "Write_your_API_Key_here" 
         
         # Model Selection ('gemini-1.5-flash' is fast and ideal for assistants)
         self.GEMINI_MODEL = "gemini-2.5-pro"
@@ -75,4 +75,5 @@ class Settings:
         self.THEME_COLOR = "#00ffcc"  # Cyan/Teal (Iron Man HUD style)
         self.BG_COLOR = "#0d0d0d"     # Almost Black
         self.TEXT_COLOR = "#ffffff"   # White
+
         self.ERROR_COLOR = "#ff3333"  # Red
